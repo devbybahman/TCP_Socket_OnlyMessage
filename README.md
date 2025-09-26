@@ -1,3 +1,4 @@
 # TCP_Socket
-# Gif:
-![InShot_20240911_165005612](https://github.com/user-attachments/assets/d816f02d-a01c-4dc1-8abd-1da99abdea4a)
+# view:
+<img width="1157" height="531" alt="Screenshot 2025-09-26 142923" src="https://github.com/user-attachments/assets/4baf0e07-9a80-48a4-a751-7c9a05b583d4" />
+
